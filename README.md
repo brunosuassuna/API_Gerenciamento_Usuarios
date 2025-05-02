@@ -76,4 +76,4 @@ venv\Scripts\activate     # Windows
 
 ## ✉️ Contato
 - **Email:** brunosuassuna.dev@gmail.com
-- **LinkedIn:** www.linkedin.com/in/bruno-suassuna-698aa7235
+- **LinkedIn:** www.linkedin.com/in/brunosuassuna
